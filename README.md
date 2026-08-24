@@ -41,7 +41,7 @@ The notebook contains:
 
 ## Files
 
-- `Day14_Food_Delivery_Visualization_Portfolio.ipynb`
+- `Food_delivery_business_performance_visualization`
 - `Day14_Food_Delivery_Visualization_Dataset.csv`
 
 ## Conclusion
